@@ -1,4 +1,4 @@
-# NLP Sentiment Dashboard 💬📊
+# NLP Sentiment Analysis Dashboard 💬📊
 
 This project is an **NLP Sentiment Analysis Dashboard** that allows customers to provide product feedback and receive automated responses based on their sentiment. The admin can view all feedback received, with a dashboard showing the percentage of positive, negative, and neutral feedback.
 
@@ -43,11 +43,11 @@ This project is an **NLP Sentiment Analysis Dashboard** that allows customers to
 ### 1. **Install Dependencies** 🛠️:
    - Clone the repository to your local machine:
      ```bash
-     git clone https://github.com/Girijesh-S/Nlp_Sentiment_Dashboard.git
+     git clone https://github.com/Girijesh-S/Nlp_Sentiment_Analysis_Dashboard.git
      ```
    - Navigate to the project folder:
      ```bash
-     cd Nlp_Sentiment_Dashboard
+     cd Nlp_Sentiment_Analysis_Dashboard
      ```
    - Install the required Python libraries:
      ```bash
@@ -55,7 +55,7 @@ This project is an **NLP Sentiment Analysis Dashboard** that allows customers to
      ```
 
 ### 2. **Run the Streamlit Backend** 🏃‍♂️:
-   - Start the Flask server:
+   - Start the Streamlit server:
      ```bash
      streamlit run streamlit_app.py
      ```
