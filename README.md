@@ -65,6 +65,19 @@ This project is an **NLP Sentiment Analysis Dashboard** that allows customers to
    - **Username**: `Girijesh`
    - **Password**: `User1`
 
+## 📸 Screenshots
+
+Screenshots are available in the `/screenshots` folder.  
+Example:
+
+![Img1](screenshots/Img1.png)
+![Img2](screenshots/Img2.png)
+![Img3](screenshots/Img3.png)
+![Img4](screenshots/Img4.png)
+![Img5](screenshots/Img5.png)
+
+
+---
 ## Contributing 🤝
 Feel free to fork the repository, submit pull requests, or open issues if you encounter any bugs or have feature suggestions.
 
