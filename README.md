@@ -78,6 +78,7 @@ Example:
 
 
 ---
+
 ## Contributing 🤝
 Feel free to fork the repository, submit pull requests, or open issues if you encounter any bugs or have feature suggestions.
 
