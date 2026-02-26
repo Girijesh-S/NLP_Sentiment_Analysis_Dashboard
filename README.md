@@ -36,7 +36,7 @@ This project is an **NLP Sentiment Analysis Dashboard** that allows customers to
    - **Streamlit**: A lightweight web framework used to handle HTTP requests, route traffic, and integrate with the frontend. 
 
 ### Model 🤖:
-   - **RoBERTa**: A pre-trained transformer model for sentiment analysis that is used to analyze customer feedback and classify the sentiment as Positive, Negative, or Neutral.
+   - **cardiffnlp/twitter-roberta-base-sentiment**: Is a RoBERTa-base transformer model fine-tuned by CardiffNLP for three-class (negative, neutral, positive) sentiment analysis on Twitter text.
 
 ## How to Run the Project 🚀
 
